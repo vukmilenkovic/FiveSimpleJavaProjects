@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Vaja3-Service" />
+        <module name="Vaja3-RmiClient" />
+        <module name="Vaja1" />
+        <module name="Vaja2" />
+        <module name="Vaja3-ServiceItf" />
+        <module name="Vaja3-RmiServer" />
+        <module name="Vaja5-WeatherApi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>
